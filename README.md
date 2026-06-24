@@ -12,6 +12,12 @@ https://dk32093.github.io/ArcGIS-SDK-JS/
 - Responsive UI with hover highlights, zoom-to, and adjustable land‑cover opacity.
 - Mobile-friendly: Works on mobile and desktop browsers with touch and click interactions.
 
+## Tech Stack
+- ArcGIS JS SDK
+- Chart.js
+- HTML/CSS/JS
+- GitHub Pages
+
 ## Data sources
 - Sentinel‑2 10m Land Cover (Image Service): https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d
 - Watershed Boundary Dataset (HUC‑4 subregions): https://www.arcgis.com/home/item.html?id=b92b73b36ef74c5cba1e3035fce94623
