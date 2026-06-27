@@ -3,7 +3,7 @@
 A responsive web app that visualizes Sentinel‑2 10m land‑cover within HUC‑12 subwatersheds around Boston, MA. Click a watershed to view percent cover by class (computed from ArcGIS Living Atlas services) and an interactive Chart.js histogram.
 
 ## Live demo
-https://dk32093.github.io/arcgis-js-landcover-viewer/
+https://dk32093.github.io/webapp-arcgis-landcover-viewer/
 
 ## Features
 - Loads Sentinel‑2 10m land‑cover from ArcGIS Living Atlas and clips it to a selected HUC‑4 region.
